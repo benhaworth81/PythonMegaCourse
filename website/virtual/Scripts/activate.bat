@@ -1,5 +1,5 @@
 @echo off
-set "VIRTUAL_ENV=D:\Users\proti\OneDrive\Documents\Python\website\virtual"
+set "VIRTUAL_ENV=D:\Users\proti\OneDrive\Documents\git\PythonMegaCourse\website\virtual"
 
 if not defined PROMPT (
     set "PROMPT=$P$G"

@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\Users\proti\OneDrive\Documents\Python\website\virtual"
+VIRTUAL_ENV="D:\Users\proti\OneDrive\Documents\git\PythonMegaCourse\website\virtual"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
